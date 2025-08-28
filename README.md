@@ -43,4 +43,13 @@ Para a melhor experiência, adicione ao seu settings.json:
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.lineHeight": 22
-}```
+}
+```
+
+---
+
+## Repo
+
+Contribua!!
+
+**[https://github.com/lucodifier/canonic-vscode-theme](https://github.com/lucodifier/canonic-vscode-theme)**
