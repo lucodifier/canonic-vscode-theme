@@ -71,14 +71,5 @@
     
     "focusBorder": "#E95420",
     "foreground": "#FFFFFF"
-  },
-  "tokenColors": [
-    { "scope": "keyword", "settings": { "foreground": "#E95420" } },
-    { "scope": "string", "settings": { "foreground": "#FFB86C" } },
-    { "scope": "constant.numeric", "settings": { "foreground": "#FF7B72" } },
-    { "scope": "variable", "settings": { "foreground": "#FFFFFF" } },
-    { "scope": "entity.name.function", "settings": { "foreground": "#EFA8B8" } },
-    { "scope": "comment", "settings": { "foreground": "#9CA3AF", "fontStyle": "italic" } },
-    { "scope": "storage.type", "settings": { "foreground": "#93C5FD" } }
-  ]
+  }
 }
