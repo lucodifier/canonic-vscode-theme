@@ -1,43 +1,32 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/lucodifier/canonic-vscode-theme/master/images/canonic.jpeg" alt="Canonic Theme" width="50"/>
+  <img src="https://raw.githubusercontent.com/lucodifier/canonic-vscode-theme/master/images/canonic.jpeg" alt="Canonic Theme" width="60"/>
   <br/>
   Canonic Theme
 </h1> 
 
-Tema baseado no estilo visual da [Canonical](https://canonical.com) e nas cores do **Ubuntu**, com cores elegantes e contraste suave.  
-Criado para quem gosta de foco, minimalismo e legibilidade no código.  
+A **VS Code theme** inspired by the visual style of [Canonical](https://canonical.com) and the elegant color palette of **Ubuntu**.  
+Designed for developers who value focus, minimalism, and code readability.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-Criado por **[lucodifier](https://github.com/lucodifier)**  
-Tema baseado no estilo visual da [Canonical](https://canonical.com) e nas cores do **Ubuntu**.
+Created by **[lucodifier](https://github.com/lucodifier)**  
+Based on the visual identity of [Canonical](https://canonical.com) and the colors of **Ubuntu**.
 
 ---
 
 ## ✨ Preview
 
-![Preview do Canonic Themt](https://raw.githubusercontent.com/lucodifier/canonic-vscode-theme/master/images/preview.png)
+![Canonic Theme Preview](https://raw.githubusercontent.com/lucodifier/canonic-vscode-theme/master/images/preview.png)
 
 ---
 
-## 🚀 Instalação
+## 📝 Font Recommendations
 
-1. Baixe e instale o `.vsix`:
-   ```bash
-   vsce package
-   code --install-extension canonic-theme-0.0.1.vsix```
+For the best experience, add this to your settings.json:
 
-2. Ative o tema:
-
-Ctrl+Shift+P → Color Theme → Canonic Theme
-
-📝 Recomendações de Fonte
-
-Para a melhor experiência, adicione ao seu settings.json:
-
-```json
+```json 
 {
   "editor.fontFamily": "'Ubuntu Variable', 'Ubuntu Mono', 'JetBrains Mono', monospace",
   "editor.fontLigatures": true,
@@ -46,10 +35,9 @@ Para a melhor experiência, adicione ao seu settings.json:
 }
 ```
 
----
+--- 
+## 📦 Repository
 
-## Repo
+Contributions are welcome! 🎉
 
-Contribua!!
-
-**[https://github.com/lucodifier/canonic-vscode-theme](https://github.com/lucodifier/canonic-vscode-theme)**
+👉 https://github.com/lucodifier/canonic-vscode-theme
