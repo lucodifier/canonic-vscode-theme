@@ -1,0 +1,58 @@
+{
+  "name": "Canonic Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1E1E1E",
+    "editor.foreground": "#FFFFFF",
+    "editorCursor.foreground": "#E95420",
+    "editorLineNumber.foreground": "#CFCFCF",
+    "editor.selectionBackground": "#3C3C3C",
+    "editorIndentGuide.background": "#5A5A5A",
+    "activityBar.background": "#1E1E1E",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.activeBorder": "#E95420",
+    "activityBarBadge.background": "#E95420",
+    "activityBarBadge.foreground": "#FFFFFF",
+    "sideBar.background": "#1C1C1C",
+    "sideBar.foreground": "#CFCFCF",
+    "statusBar.background": "#1E1E1E",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#E95420",
+    "statusBar.debuggingForeground": "#FFFFFF",
+    "titleBar.activeBackground": "#1E1E1E",
+    "titleBar.activeForeground": "#FFFFFF",
+    "terminal.background": "#1E1E1E",
+    "terminal.foreground": "#FFFFFF",
+    "terminalCursor.foreground": "#E95420"
+  },
+  "tokenColors": [
+    {
+      "scope": "keyword",
+      "settings": { "foreground": "#E95420" }
+    },
+    {
+      "scope": "string",
+      "settings": { "foreground": "#FFB86C" }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": { "foreground": "#FF7B72" }
+    },
+    {
+      "scope": "variable",
+      "settings": { "foreground": "#FFFFFF" }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": { "foreground": "#EFA8B8" }
+    },
+    {
+      "scope": "comment",
+      "settings": { "foreground": "#9CA3AF", "fontStyle": "italic" }
+    },
+    {
+      "scope": "storage.type",
+      "settings": { "foreground": "#93C5FD" }
+    }
+  ]
+}

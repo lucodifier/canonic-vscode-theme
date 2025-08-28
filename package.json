@@ -1,0 +1,19 @@
+{
+  "name": "canonic-theme",
+  "displayName": "Canonic Theme",
+  "description": "Tema customizado baseado no Ubuntu Pro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Canonic Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/canonic-theme.json"
+      }
+    ]
+  }
+}
