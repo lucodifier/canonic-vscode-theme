@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/canonic.jpeg" alt="Canonic Theme" width="50"/>
+  <img src="https://github.com/lucodifier/canonic-vscode-theme/blob/master/images/canonic.jpeg" alt="Canonic Theme" width="50"/>
   <br/>
   Canonic Theme
 </h1> 
@@ -18,7 +18,7 @@ Tema baseado no estilo visual da [Canonical](https://canonical.com) e nas cores 
 
 ## ✨ Preview
 
-![Preview do Canonic Themt](images/preview.png)
+![Preview do Canonic Themt](https://github.com/lucodifier/canonic-vscode-theme/blob/master/images/preview.png)
 
 ---
 
